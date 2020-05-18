@@ -1,5 +1,3 @@
-import lab1
-import lab2
 from fpdf import FPDF
 
 #Данные из ЛР1, ЛР2
